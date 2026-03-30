@@ -55,9 +55,7 @@ We are proud to announce the first stable production release. The infrastructure
 ## 🔮 ROADMAP
 
 - [ ] **VTC Live Map** — Real-time location tracking for all company members on a shared GPS map.
-- [ ] **Economy 2.0** — Detailed maintenance costs and efficiency-based salary systems.
-- [ ] **Twitch Integration** — Interactive overlays and event triggers for live streamers.
-
+      
 ---
 
 ## 📜 HISTORY
